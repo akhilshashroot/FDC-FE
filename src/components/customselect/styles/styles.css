@@ -1,0 +1,63 @@
+.app-container {
+    padding: 0px 0px;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  .select-container {
+    
+    display: flex;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 500px;
+    height: 25px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-flex: 1;
+    margin-bottom: 10px;
+  }
+  .select-newcontainer {
+    
+    display: flex;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 500px;
+    height: 25px;
+    margin-top: 20px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-flex: 1;
+    margin-bottom: 10px;
+  }
+  
+  .submit {
+    cursor: pointer;
+    background-color: #1e87f0;
+    color: #fff;
+    border: 1px solid transparent;
+    box-sizing: border-box;
+    padding: 0 30px;
+    vertical-align: middle;
+    font-size: 14px;
+    line-height: 38px;
+    text-transform: uppercase;
+    transition: 0.1s ease-in-out;
+    transition-property: color, background-color, border-color;
+  }
+  
+  .submit:hover {
+    background-color: #0f7ae5;
+    color: #fff;
+  }
+  
+  .submit:focus {
+    background-color: #1e87f0;
+    color: #fff;
+    outline: none;
+  }

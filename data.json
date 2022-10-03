@@ -1,0 +1,95 @@
+
+        {
+            "last_updated":"10 Jan 2022 05:01 AM",
+            "overall":
+            [
+            {"title" : "Total Virtual Machines", "count": 2971},
+            { "title" : "Active Virtual Machines", "count": 2453},
+            { "title" : "Suspended Virtual Machines", "count": 518},
+            { "title" : "Linux Virtual Machines", "count": 2922},
+            { "title" : "Windows Virtual Machines", "count": 19}
+            ],
+            "location":
+            [
+            { "title" : "AMSTERDAM",  "count": 66 },
+            { "title" : "AMSTERDAM ENT","count":  164 },
+            {"title" : "FRANKFURT ","count":  8  },
+            {"title" : "FRANKFURT ENT","count":  180  },
+            {"title" : "DENVER","count":  26  },
+            {"title" : "DENVER ENT", "count":  122 },
+            {"title" : "LOS ANGELES ","count":  36  },
+            {"title" : "LOS ANGELES ENT","count":  316  },
+            {"title" : "MIAMI","count":  16  },
+            {"title" : "MIAMI ENT","count":  166  },
+            {"title" : "PARIS","count":  7  },
+            {"title" : "PARIS ENT","count":  0  },
+            {"title" : "VIENNA","count":  3  },
+            {"title" : "VIENNA ENT","count":  70 },
+            {"title" : "LONDON","count":  10  },
+            {"title" : "LONDON ENT","count":  331  },
+            {"title" : "CHICAGO","count":  108  },
+            {"title" : "SEATTLE","count":  21  },
+            {"title" : "NEW YORK","count":  151  }
+            ],
+            "package":
+            [
+            {"title" : "Starter packages", "count": 2446},
+            { "title" : "Enterprise packages", "count": 415},
+            { "title" : "Cold packages", "count": 110}
+            ],
+            "storage":
+            [
+            { "title" : "AMSTERDAM",  "count": 37.54 },
+            { "title" : "AMSTERDAM ENT","count":  10.16 },
+            {"title" : "FRANKFURT ","count":  7.01  },
+            {"title" : "FRANKFURT ENT","count":  4.57  },
+            {"title" : "DENVER","count":  7.1  },
+            {"title" : "DENVER ENT", "count":  3.72 },
+            {"title" : "LOS ANGELES ","count":  19.77  },
+            {"title" : "LOS ANGELES ENT","count":  10.85  },
+            {"title" : "MIAMI","count":  15.49  },
+            {"title" : "MIAMI ENT","count":  4.81  },
+            {"title" : "PARIS","count":  2.34  },
+            {"title" : "PARIS ENT","count":  0  },
+            {"title" : "VIENNA","count":  2.01  },
+            {"title" : "VIENNA ENT","count":  1.69  },
+            {"title" : "LONDON","count":  0.99  },
+            {"title" : "LONDON ENT","count":  8.51  },
+            {"title" : "CHICAGO","count":  36.08  },
+            {"title" : "SEATTLE","count":  4.74  },
+            {"title" : "NEW YORK","count":  6.53  }
+            ],
+            "windows_licence":
+            [
+            {"title":"Windows 2008 STD x86","count":0},
+            {"title":"Windows 2008 STD x64","count":0},
+            {"title":"Windows 2008 STD R2 x64","count":0},
+            {"title":"Windows 2012 x64 STD","count":0},
+            {"title":"Windows 2012 x64 STD R2 ","count":4}
+            ],
+            "monthly_sale":
+            [
+            {"title":"August 2021","title_s":"Aug 2021","count":1720,"start":1346,"enterprise":293,"cloud":81},
+            {"title":"September 2021","title_s":"Sep 2021","count":1815,"start":1429,"enterprise":303,"cloud":83},
+            {"title":"October 2021","title_s":"Oct 2021","count":1952,"start":1550,"enterprise":317,"cloud":85},
+            {"title":"November 2021","title_s":"Nov 2021","count":2130,"start":1705,"enterprise":330,"cloud":95},
+            {"title":"December 2021","title_s":"Dec 2021","count":2331,"start":1871,"enterprise":357,"cloud":103},
+            {"title":"January 2022","title_s":"Jan 2022","count":2422,"start":1944,"enterprise":373,"cloud":105},
+            {"title":"Most recent","title_s":"new","count":31,"start":14,"enterprise":16,"cloud":1}
+            ],
+            "churn_rate":
+            [
+            {"title":"2018","count":"2963","percent":"28.99" },
+            {"title":"2019","count":"3165","percent":"22.84" },
+            {"title":"2020","count":"2178","percent":"19.45" },
+            {"title":"2021","count":"1514","percent":"8.3" },
+            {"title":"2022","count":"625","percent":"3.26" }
+            ],
+            "CRM_data":
+            [
+            {"title":"TOTAL","count":"19167"},
+            {"title":"ACTIVE","count":"598" },
+            {"title":"DEACTIVATED","count":"14698"},
+            {"title":"CANCELLED","count":"3871"}
+            ]
+        }

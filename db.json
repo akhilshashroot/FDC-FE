@@ -1,0 +1,874 @@
+{
+  "nullRoutes": [
+    {
+      "id": 1,
+      "ip_address": "50.7.87.229",
+      "first_seen": "1d 10h 12m 53s",
+      "expires": "Never",
+      "notes": "TICKET #1297244 FDC Abuse Report: Multiple IPs [5] (Service #120773)"
+    },
+    {
+      "id": 2,
+      "ip_address": "50.7.87.214",
+      "first_seen": "1d 10h 13m 34s",
+      "expires": "Never",
+      "notes": "TICKET #1297244 FDC Abuse Report: Multiple IPs [5] (Service #120773)"
+    },
+    {
+      "id": 3,
+      "ip_address": "50.7.87.78",
+      "first_seen": "1d 10h 12m 55s",
+      "expires": "Never",
+      "notes": "TICKET #1297244 FDC Abuse Report: Multiple IPs [5] (Service #120773)"
+    },
+    {
+      "id": 4,
+      "ip_address": "50.7.202.58",
+      "first_seen": "7d 13h 6m 11s",
+      "expires": "Never",
+      "notes": "Ticket #1297095 Abuse Report: 50.7.202.58 (Service #128142)"
+    },
+    {
+      "id": 5,
+      "ip_address": "50.7.253.90",
+      "first_seen": "9d 13h 40m 35s",
+      "expires": "Never",
+      "notes": "TICKET #1293559"
+    },
+    {
+      "id": 6,
+      "ip_address": "50.7.178.54",
+      "first_seen": "9d 16h 37m 25s",
+      "expires": "Never",
+      "notes": "TICKET #1296005"
+    },
+    {
+      "id": 7,
+      "ip_address": "50.7.175.10",
+      "first_seen": "14d 13h 17m 34s",
+      "expires": "Never",
+      "notes": "TICKET #1295173 FDC Abuse Report: 50.7.175.10 (Service #124679)"
+    },
+    {
+      "id": 8,
+      "ip_address": "198.16.72.106",
+      "first_seen": "17d 1h 37m 4s",
+      "expires": "Never",
+      "notes": "TICKET #1292242 FDC Abuse Report: 198.16.72.106 (Service #131794)"
+    },
+    {
+      "id": 9,
+      "ip_address": "50.7.124.57",
+      "first_seen": "17d 1h 38m 57s",
+      "expires": "Never",
+      "notes": "TICKET #1292112 FDC Abuse Report: 50.7.124.57 (Service #131795)"
+    },
+    {
+      "id": 10,
+      "ip_address": "50.7.233.58",
+      "first_seen": "28d 14h 13m 56s",
+      "expires": "Never",
+      "notes": "TICKET #1285343"
+    },
+    {
+      "id": 11,
+      "ip_address": "50.7.124.20",
+      "first_seen": "29d 11h 56m 54s",
+      "expires": "Never",
+      "notes": "TICKET #1285710 FDC Abuse Report: 50.7.124.20 (Service #131493)"
+    },
+    {
+      "id": 12,
+      "ip_address": "198.16.67.54",
+      "first_seen": "40d 20h 32m 14s",
+      "expires": "Never",
+      "notes": "TICKET #1281200 FDC Abuse Report: 198.16.67.54 (Service #118124)"
+    },
+    {
+      "id": 13,
+      "ip_address": "523.237.205.34",
+      "first_seen": "40d 21h 15m 9s",
+      "expires": "Never",
+      "notes": "TICKET #1284721 FDC Abuse Report: 23.237.205.34 (Service #131357)"
+    },
+    {
+      "id": 14,
+      "ip_address": "50.7.231.236",
+      "first_seen": "45d 11h 56m 37s",
+      "expires": "Never",
+      "notes": "TICKET #1282875 FDC Abuse Report: 50.7.231.236 (Service #126120)"
+    },
+    {
+      "id": 15,
+      "ip_address": "50.7.82.122",
+      "first_seen": "45d 12h 11m 19s",
+      "expires": "Never",
+      "notes": "TICKET #1281402 FDC Abuse Report: 50.7.82.122 (Service #129888)"
+    },
+    {
+      "id": 16,
+      "ip_address": "50.7.128.154",
+      "first_seen": "6h 5m 40s",
+      "expires": "Never",
+      "notes": "TICKET #1276482 FDC Abuse Report: 50.7.128.154 (Service #127206)"
+    },
+    {
+      "id": 17,
+      "ip_address": "50.7.124.169",
+      "first_seen": "62d 13h 12m 56s",
+      "expires": "Never",
+      "notes": "TICKET #1270802 FDC Abuse Report: 50.7.124.169 (Service #86428)"
+    },
+    {
+      "id": 20,
+      "ip_address": "23.237.136.125",
+      "first_seen": "1d 10h 12m 55s",
+      "expires": "Never",
+      "notes": "TICKET #1241410 FDC Abuse Report: 23.237.136.125 (Service #93710)"
+    },
+    {
+      "id": 21,
+      "ip_address": "50.7.145.28",
+      "first_seen": "1d 10h 12m 55s",
+      "expires": "Never",
+      "notes": "TICKET #1239094 FDC Abuse Report: 50.7.145.28 (Service #105039)"
+    },
+    {
+      "id": 22,
+      "ip_address": "50.7.67.43",
+      "first_seen": "1d 10h 12m 55s",
+      "expires": "Never",
+      "notes": "TICKET #1240478 FDC Abuse Report: 50.7.67.43 (Service #79271)"
+    },
+    {
+      "id": 24,
+      "ip_address": "198.255.103.9",
+      "first_seen": "1d 10h 12m 55s",
+      "expires": "Never",
+      "notes": "TICKET #1299016 FDC Abuse Report: 198.255.103.9 (Service #129247)"
+    },
+    {
+      "id": 25,
+      "ip_address": "23.237.49.30",
+      "first_seen": "1d 10h 12m 55s",
+      "expires": "Never",
+      "notes": "Incoming DDOS (100+ Gb/s)"
+    }
+  ],
+  "nullRoutesLog": [
+    {
+      "index": 1,
+      "timestamp": "2020-08-21 00:17:17",
+      "modified_by": "50.7.126.6",
+      "null_route_ip": "198.16.70.58",
+      "tag": "666",
+      "action": "Null route added.",
+      "action_type": "ADD"
+    },
+    {
+      "index": 2,
+      "timestamp": "2020-08-20 13:45:14",
+      "modified_by": "ipwatch",
+      "null_route_ip": "50.7.144.202",
+      "tag": "666",
+      "action": "Null route expired.",
+      "action_type": "EXP"
+    },
+    {
+      "index": 3,
+      "timestamp": "2020-08-20 08:44:22",
+      "modified_by": "50.7.126.205",
+      "null_route_ip": "50.7.87.244",
+      "tag": "666",
+      "action": "Null route deleted.",
+      "action_type": "DEL"
+    },
+    {
+      "index": 4,
+      "timestamp": "2020-08-20 08:13:57",
+      "modified_by": "50.7.126.205",
+      "null_route_ip": "50.7.86.235",
+      "tag": "666",
+      "action": "Null route deleted.",
+      "action_type": "DEL"
+    },
+    {
+      "index": 5,
+      "timestamp": "2020-08-20 07:42:20",
+      "modified_by": "50.7.126.7",
+      "null_route_ip": "50.7.144.202",
+      "tag": "666",
+      "action": "Null route added.",
+      "action_type": "ADD"
+    },
+    {
+      "index": 6,
+      "timestamp": "2020-08-20 06:20:10",
+      "modified_by": "ipwatch",
+      "null_route_ip": "198.16.70.58",
+      "tag": "666",
+      "action": "Null route expired.",
+      "action_type": "EXP"
+    },
+    {
+      "index": 7,
+      "timestamp": "2020-08-20 01:19:29",
+      "modified_by": "50.7.126.205",
+      "null_route_ip": "198.255.103.9",
+      "tag": "666",
+      "action": "Null route deleted.",
+      "action_type": "DEL"
+    },
+    {
+      "index": 8,
+      "timestamp": "2020-08-20 00:17:17",
+      "modified_by": "50.7.126.6",
+      "null_route_ip": "198.16.70.58",
+      "tag": "666",
+      "action": "Null route added.",
+      "action_type": "ADD"
+    },
+    {
+      "index": 9,
+      "timestamp": "2020-08-19 20:14:39",
+      "modified_by": "50.7.126.205",
+      "null_route_ip": "50.7.231.235",
+      "tag": "666",
+      "action": "Null route deleted.",
+      "action_type": "DEL"
+    },
+    {
+      "index": 10,
+      "timestamp": "2020-08-19 16:25:33",
+      "modified_by": "50.7.126.205",
+      "null_route_ip": "50.7.87.84",
+      "tag": "666",
+      "action": "Null route deleted.",
+      "action_type": "DEL"
+    },
+    {
+      "index": 11,
+      "timestamp": "2020-08-19 12:21:54",
+      "modified_by": "50.7.126.205",
+      "null_route_ip": "50.7.87.229",
+      "tag": "666",
+      "action": "Null route added.",
+      "action_type": "ADD"
+    },
+    {
+      "index": 12,
+      "timestamp": "2020-08-19 12:21:36",
+      "modified_by": "50.7.126.205",
+      "null_route_ip": "50.7.87.244",
+      "tag": "666",
+      "action": "Null route added.",
+      "action_type": "ADD"
+    },
+    {
+      "index": 13,
+      "timestamp": "2020-08-19 12:21:13",
+      "modified_by": "50.7.126.205",
+      "null_route_ip": "50.7.87.214",
+      "tag": "666",
+      "action": "Null route added.",
+      "action_type": "ADD"
+    },
+    {
+      "index": 14,
+      "timestamp": "2020-08-19 12:20:52",
+      "modified_by": "50.7.126.205",
+      "null_route_ip": "50.7.87.78",
+      "tag": "666",
+      "action": "Null route added.",
+      "action_type": "ADD"
+    },
+    {
+      "index": 15,
+      "timestamp": "2020-08-19 12:20:32",
+      "modified_by": "50.7.126.205",
+      "null_route_ip": "50.7.86.235",
+      "tag": "666",
+      "action": "Null route added.",
+      "action_type": "ADD"
+    },
+    {
+      "index": 16,
+      "timestamp": "2020-08-19 08:40:22",
+      "modified_by": "50.7.126.205",
+      "null_route_ip": "50.7.74.249",
+      "tag": "666",
+      "action": "Null route deleted.",
+      "action_type": "DEL"
+    },
+    {
+      "index": 17,
+      "timestamp": "2020-08-11 08:54:12",
+      "modified_by": "50.7.126.205",
+      "null_route_ip": "50.7.253.90",
+      "tag": "666",
+      "action": "Null route added.",
+      "action_type": "ADD"
+    },
+    {
+      "index": 18,
+      "timestamp": "2020-08-03 20:55:33",
+      "modified_by": "50.7.126.205",
+      "null_route_ip": "50.7.124.57",
+      "tag": "100",
+      "action": "Null route deleted.",
+      "action_type": "DEL"
+    },
+    {
+      "index": 19,
+      "timestamp": "2020-08-03 20:55:01",
+      "modified_by": "50.7.126.205",
+      "null_route_ip": "50.7.124.57",
+      "tag": "100",
+      "action": "Null route added.",
+      "action_type": "ADD"
+    }
+  ],
+  "ipsearch": [
+    {
+      "id": 1,
+      "vlan": "VLAN 11",
+      "ip": "50.7.126.2",
+      "ip_address": "198.16.126.28",
+      "ip_type": "normal",
+      "location": "Amsterdam",
+      "mac_address": "02:25:90:02:48:f4",
+      "first_seen": "1043d 8h 59m 49s",
+      "last_seen": "9m 34s",
+      "switch_port": "Unknown",
+      "mac_detail": "Unknown Manufacturer",
+      "first_seen_date": "2017-10-12 17:40:19",
+      "last_seen_date": "2017-08-21 17:40:19"
+    },
+    {
+      "id": 2,
+      "vlan": "VLAN 15",
+      "ip": "50.7.126.2",
+      "ip_address": "10.84.43.212",
+      "ip_type": "normal",
+      "location": "Atlanta",
+      "mac_address": "02:25:90:02:48:f4",
+      "first_seen": "1043d 8h 59m 49s",
+      "last_seen": "9m 34s",
+      "switch_port": "Unknown",
+      "mac_detail": "Unknown Manufacturer",
+      "first_seen_date": "2017-10-12 17:40:19",
+      "last_seen_date": "2017-08-21 17:40:19"
+    },
+    {
+      "id": 3,
+      "vlan": "VLAN 15",
+      "ip": "50.7.126.2",
+      "ip_address": "198.16.126.28",
+      "ip_type": "normal",
+      "location": "Atlanta",
+      "mac_address": "02:25:90:02:48:f4",
+      "first_seen": "1043d 8h 59m 49s",
+      "last_seen": "9m 34s",
+      "switch_port": "Unknown",
+      "mac_detail": "Unknown Manufacturer",
+      "first_seen_date": "2017-10-12 17:40:19",
+      "last_seen_date": "2017-08-21 17:40:19"
+    },
+    {
+      "id": 4,
+      "vlan": "VLAN 15",
+      "ip": "50.7.126.2",
+      "ip_address": "10.140.51.89",
+      "ip_type": "normal",
+      "location": "Atlanta",
+      "mac_address": "02:25:90:02:48:f4",
+      "first_seen": "1043d 8h 59m 49s",
+      "last_seen": "9m 34s",
+      "switch_port": "Unknown",
+      "mac_detail": "Unknown Manufacturer",
+      "first_seen_date": "2017-10-12 17:40:19",
+      "last_seen_date": "2017-08-21 17:40:19"
+    },
+    {
+      "id": 5,
+      "vlan": "VLAN 15",
+      "ip": "50.7.126.2",
+      "ip_address": "10.28.42.126",
+      "ip_type": "normal",
+      "location": "Atlanta",
+      "mac_address": "02:25:90:02:48:f4",
+      "first_seen": "1043d 8h 59m 49s",
+      "last_seen": "9m 34s",
+      "switch_port": "Unknown",
+      "mac_detail": "Unknown Manufacturer",
+      "first_seen_date": "2017-10-12 17:40:19",
+      "last_seen_date": "2017-08-21 17:40:19"
+    },
+    {
+      "id": 6,
+      "vlan": "VLAN 15",
+      "ip": "50.7.126.2",
+      "ip_address": "10.27.75.42",
+      "ip_type": "normal",
+      "location": "Atlanta",
+      "mac_address": "02:25:90:02:48:f4",
+      "first_seen": "1043d 8h 59m 49s",
+      "last_seen": "9m 34s",
+      "switch_port": "Unknown",
+      "mac_detail": "Unknown Manufacturer",
+      "first_seen_date": "2017-10-12 17:40:19",
+      "last_seen_date": "2017-08-21 17:40:19"
+    },
+    {
+      "id": 7,
+      "vlan": "VLAN 15",
+      "ip": "50.7.126.2",
+      "ip_address": "10.27.75.42",
+      "ip_type": "normal",
+      "location": "Atlanta",
+      "mac_address": "02:25:90:02:48:f4",
+      "first_seen": "1043d 8h 59m 49s",
+      "last_seen": "9m 34s",
+      "switch_port": "Unknown",
+      "mac_detail": "Unknown Manufacturer",
+      "first_seen_date": "2017-10-12 17:40:19",
+      "last_seen_date": "2017-08-21 17:40:19"
+    },
+    {
+      "id": 8,
+      "vlan": "VLAN 15",
+      "ip": "50.7.126.2",
+      "ip_address": "198.101.1.1",
+      "ip_type": "normal",
+      "location": "Atlanta",
+      "mac_address": "02:25:90:02:48:f4",
+      "first_seen": "1043d 8h 59m 49s",
+      "last_seen": "9m 34s",
+      "switch_port": "Unknown",
+      "mac_detail": "Unknown Manufacturer",
+      "first_seen_date": "2017-10-12 17:40:19",
+      "last_seen_date": "2017-08-21 17:40:19"
+    },
+    {
+      "id": 9,
+      "vlan": "VLAN 15",
+      "ip": "50.7.126.2",
+      "ip_address": "10.216.23.221",
+      "ip_type": "normal",
+      "location": "Atlanta",
+      "mac_address": "02:25:90:02:48:f4",
+      "first_seen": "1043d 8h 59m 49s",
+      "last_seen": "9m 34s",
+      "switch_port": "Unknown",
+      "mac_detail": "Unknown Manufacturer",
+      "first_seen_date": "2017-10-12 17:40:19",
+      "last_seen_date": "2017-08-21 17:40:19"
+    },
+    {
+      "id": 10,
+      "vlan": "VLAN 15",
+      "ip": "50.7.126.2",
+      "ip_address": "10.160.150.17",
+      "ip_type": "normal",
+      "location": "Atlanta",
+      "mac_address": "02:25:90:02:48:f4",
+      "first_seen": "1043d 8h 59m 49s",
+      "last_seen": "9m 34s",
+      "switch_port": "Unknown",
+      "mac_detail": "Unknown Manufacturer",
+      "first_seen_date": "2017-10-12 17:40:19",
+      "last_seen_date": "2017-08-21 17:40:19"
+    },
+    {
+      "id": 11,
+      "vlan": "VLAN 10",
+      "ip": "50.7.190.254",
+      "ip_address": "2001:49f0::/32",
+      "ip_type": "ipv",
+      "location": "Juniper38",
+      "subnet": "2001:49f0:d008::/64",
+      "gateway": "2001:49f0:d008::1",
+      "usable": "2001:49f0:d008::2 - 2001:49f0:d008:0:ffff:ffff:ffff:ffff",
+      "available": true,
+      "status": "Available - Last Activity: Never"
+    },
+    {
+      "id": 12,
+      "vlan": "VLAN 10",
+      "ip": "50.7.165.254",
+      "ip_address": "2001:49f0::/32",
+      "ip_type": "ipv",
+      "location": "Juniper10",
+      "subnet": "2001:49f0:d00a::/64",
+      "gateway": "2001:49f0:d008::1",
+      "usable": "2001:49f0:d00a::2 - 2001:49f0:d00a:0:ffff:ffff:ffff:ffff",
+      "available": true,
+      "status": "Available - Last Activity: Never"
+    },
+    {
+      "id": 13,
+      "vlan": "VLAN 10",
+      "ip": "50.7.141.249",
+      "ip_address": "2001:49f0::/32",
+      "ip_type": "ipv",
+      "location": "Juniper36",
+      "subnet": "2001:49f0:d00d::/64",
+      "gateway": "2001:49f0:d00d::1",
+      "usable": "2001:49f0:d00d::2 - 2001:49f0:d00d:0:ffff:ffff:ffff:ffff",
+      "available": false,
+      "status": "Not Available - Last Activity: 2017-10-12 17:40:19"
+    },
+    {
+      "id": 14,
+      "vlan": "VLAN 10",
+      "ip": "50.7.144.254",
+      "ip_address": "2001:49f0::/32",
+      "ip_type": "ipv",
+      "location": "Juniper22",
+      "subnet": "2001:49f0:d012::/64",
+      "gateway": "2001:49f0:d012::1",
+      "usable": "2001:49f0:d012::2 - 2001:49f0:d012:0:ffff:ffff:ffff:ffff",
+      "available": true,
+      "status": "Available - Last Activity: Never"
+    },
+    {
+      "id": 15,
+      "vlan": "VLAN 10",
+      "ip": "50.7.131.254",
+      "ip_address": "2001:49f0::/32",
+      "ip_type": "ipv",
+      "location": "Juniper28",
+      "subnet": "2001:49f0:d013::/64",
+      "gateway": "2001:49f0:d013::1",
+      "usable": "2001:49f0:d013::2 - 2001:49f0:d013:0:ffff:ffff:ffff:ffff",
+      "available": false,
+      "status": "Not Available - Last Activity: 2017-10-12 17:40:19"
+    },
+    {
+      "id": 16,
+      "vlan": "VLAN 10",
+      "ip": "50.7.135.254",
+      "ip_address": "2001:49f0::/32",
+      "ip_type": "ipv",
+      "location": "Juniper22",
+      "subnet": "2001:49f0:d014::/64",
+      "gateway": "2001:49f0:d014::1",
+      "usable": "2001:49f0:d014::2 - 2001:49f0:d014:0:ffff:ffff:ffff:ffff",
+      "available": true,
+      "status": "Available - Last Activity: Never"
+    },
+    {
+      "id": 17,
+      "vlan": "VLAN 10",
+      "ip": "50.7.160.2",
+      "ip_address": "2001:49f0::/32",
+      "ip_type": "ipv",
+      "location": "Juniper35",
+      "subnet": "2001:49f0:d017::/64",
+      "gateway": "2001:49f0:d017::1",
+      "usable": "2001:49f0:d017::2 - 2001:49f0:d017:0:ffff:ffff:ffff:ffff",
+      "available": true,
+      "status": "Available - Last Activity: Never"
+    },
+    {
+      "id": 18,
+      "vlan": "VLAN 10",
+      "ip": "50.7.183.254",
+      "ip_address": "2001:49f0::/32",
+      "ip_type": "ipv",
+      "location": "Juniper30",
+      "subnet": "2001:49f0:d018::/64",
+      "gateway": "2001:49f0:d018::1",
+      "usable": "2001:49f0:d018::2 - 2001:49f0:d018:0:ffff:ffff:ffff:ffff",
+      "available": true,
+      "status": "Available - Last Activity: Never"
+    },
+    {
+      "id": 19,
+      "vlan": "VLAN 10",
+      "ip": "50.7.120.254",
+      "ip_address": "2001:49f0::/32",
+      "ip_type": "ipv",
+      "location": "Juniper20",
+      "subnet": "2001:49f0:d01b::/64",
+      "gateway": "2001:49f0:d01b::1",
+      "usable": "2001:49f0:d01b::2 - 2001:49f0:d01b:0:ffff:ffff:ffff:ffff",
+      "available": false,
+      "status": "Not Available - Last Activity: 2017-10-12 17:40:19"
+    },
+    {
+      "id": 20,
+      "vlan": "VLAN 10",
+      "ip": "50.7.126.2",
+      "ip_address": "2001:49f0::/32",
+      "ip_type": "ipv",
+      "location": "Juniper 1 (100G)",
+      "subnet": "2001:49f0:d023::/64",
+      "gateway": "2001:49f0:d023::1",
+      "usable": "2001:49f0:d023::2 - 2001:49f0:d023:0:ffff:ffff:ffff:ffff",
+      "available": true,
+      "status": "Available - Last Activity: Never"
+    }
+  ],
+  "summary": {
+    "devices": [
+      {
+        "label": "Juniper38 (50.7.126.2)",
+        "value": "50.7.126.2"
+      },
+      {
+        "label": "Juniper1 (100G) (50.7.126.4)",
+        "value": "50.7.126.4"
+      },
+      {
+        "label": "Juniper2 (50.7.92.254)",
+        "value": "50.7.92.254"
+      },
+      {
+        "label": "Juniper4 (198.16.64.254)",
+        "value": "198.16.64.254"
+      },
+      {
+        "label": "Juniper5g (198.16.67.254)",
+        "value": "198.16.67.254"
+      }
+    ],
+    "vlan": [
+      {
+        "label": "VLAN 10 (Internal-VLAN)",
+        "value": "10"
+      },
+      {
+        "label": "VLAN 1651 (?)",
+        "value": "1651"
+      },
+      {
+        "label": "VLAN 10 (?)",
+        "value": "10?"
+      },
+      {
+        "label": "VLAN 1652 (?)",
+        "value": "1652"
+      },
+      {
+        "label": "VLAN 1653 (?)",
+        "value": "1653"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "device": "50.7.126.2",
+      "vlan": "10",
+      "ipv": "ipv4",
+      "subnet": "50.7.126.0/25",
+      "gateway": "50.7.126.1",
+      "usable": "50.7.126.2 - 50.7.126.126",
+      "available": false,
+      "status": "Not Available - Last Activity: 2017-10-12 17:40:19"
+    },
+    {
+      "id": 2,
+      "device": "50.7.126.2",
+      "vlan": "10",
+      "ipv": "ipv4",
+      "subnet": "50.7.160.0/25",
+      "gateway": "50.7.160.1",
+      "usable": "50.7.160.2 - 50.7.160.126",
+      "available": true,
+      "status": "Available - Last Activity: Never"
+    },
+    {
+      "id": 3,
+      "device": "50.7.126.2",
+      "vlan": "10",
+      "ipv": "ipv4",
+      "subnet": "50.7.254.0/24",
+      "gateway": "50.7.254.1",
+      "usable": "50.7.254.2 - 50.7.254.254",
+      "available": false,
+      "status": "Not Available - Last Activity: 2017-10-12 17:40:19"
+    },
+    {
+      "id": 4,
+      "device": "50.7.126.2",
+      "vlan": "10",
+      "ipv": "ipv4",
+      "subnet": "50.7.120.248/29",
+      "gateway": "50.7.120.249",
+      "usable": "50.7.120.250 - 50.7.120.254",
+      "available": true,
+      "status": "Available - Last Activity: Never"
+    },
+    {
+      "id": 5,
+      "device": "50.7.126.2",
+      "vlan": "10",
+      "ipv": "ipv4",
+      "subnet": "50.7.165.248/29",
+      "gateway": "50.7.165.249",
+      "usable": "50.7.165.250 - 50.7.165.254",
+      "available": true,
+      "status": "Available - Last Activity: Never"
+    },
+    {
+      "id": 6,
+      "device": "50.7.126.2",
+      "vlan": "10",
+      "ipv": "ipv6",
+      "subnet": "2001:49f0:d008::/64",
+      "gateway": "2001:49f0:d008::1",
+      "usable": "2001:49f0:d008::2 - 2001:49f0:d008:0:ffff:ffff:ffff:ffff",
+      "available": true,
+      "status": "Available - Last Activity: Never"
+    },
+    {
+      "id": 7,
+      "device": "50.7.126.2",
+      "vlan": "10",
+      "ipv": "ipv6",
+      "subnet": "2001:49f0:d00a::/64",
+      "gateway": "2001:49f0:d00a::1",
+      "usable": "2001:49f0:d00a::2 - 2001:49f0:d00a:0:ffff:ffff:ffff:ffff",
+      "available": true,
+      "status": "Available - Last Activity: Never"
+    },
+    {
+      "id": 8,
+      "device": "50.7.126.2",
+      "vlan": "10",
+      "ipv": "ipv6",
+      "subnet": "2001:49f0:d00d::/64",
+      "gateway": "2001:49f0:d00d::1",
+      "usable": "2001:49f0:d00d::2 - 2001:49f0:d00d:0:ffff:ffff:ffff:ffff",
+      "available": true,
+      "status": "Available - Last Activity: Never"
+    },
+    {
+      "id": 9,
+      "device": "50.7.126.2",
+      "vlan": "10",
+      "ipv": "ipv6",
+      "subnet": "2001:49f0:d012::/64",
+      "gateway": "2001:49f0:d012::1",
+      "usable": "2001:49f0:d012::2 - 2001:49f0:d012:0:ffff:ffff:ffff:ffff",
+      "available": true,
+      "status": "Available - Last Activity: Never"
+    },
+    {
+      "id": 10,
+      "device": "50.7.126.2",
+      "vlan": "10",
+      "ipv": "ipv6",
+      "subnet": "2001:49f0:d013::/64",
+      "gateway": "2001:49f0:d013::1",
+      "usable": "2001:49f0:d013::2 - 2001:49f0:d013:0:ffff:ffff:ffff:ffff",
+      "available": true,
+      "status": "Available - Last Activity: Never"
+    }
+  ],
+  "shoppinglist": [
+    {
+      "id": 1,
+      "location": "Amsterdam",
+      "what": "Jardae - 1U Dual 2650 or above (i prefer 2660 v2) include 128GB of RAM",
+      "qty": "6",
+      "url": "Running out"
+    },
+    {
+      "id": 2,
+      "location": "Amsterdam",
+      "what": "Jardae - PDU AP7930 120VAC 16A",
+      "qty": "3",
+      "url": "For new racks and replacement for failed units"
+    },
+    {
+      "id": 3,
+      "location": "Atlanta",
+      "what": "Jaiden - 250 GB SSD",
+      "qty": "15",
+      "url": "TICKET #1302209"
+    },
+    {
+      "id": 4,
+      "location": "Chicago 1 CBO",
+      "what": "Teo - 1TB SSD Samsung 860 EVO",
+      "qty": "4",
+      "url": "TICKET #1232803"
+    },
+    {
+      "id": 5,
+      "location": "Denver",
+      "what": "Teo - 1TB SSD",
+      "qty": "20",
+      "url": "TICKET #1232803"
+    },
+    {
+      "id": 6,
+      "location": "Vienna",
+      "what": "Nashim - Brought new laptop",
+      "qty": "2",
+      "url": "Replacement of #1245SDRE"
+    },
+    {
+      "id": 7,
+      "location": "Chicago 2",
+      "what": "Nashim - New Shopping List",
+      "qty": "6",
+      "url": "New URL"
+    }
+  ],
+  "shoppinglocation": [
+    {
+      "id": 1,
+      "label": "[US] LosAngeles3 (Bradley)",
+      "value": "[US] LosAngeles3 (Bradley)"
+    },
+    {
+      "id": 2,
+      "label": "[CA] Toronto",
+      "value": "[CA] Toronto"
+    },
+    {
+      "id": 3,
+      "label": "[US] ChicagoEnt",
+      "value": "[US] ChicagoEnt"
+    },
+    {
+      "id": 4,
+      "label": "[US] DenverEnt",
+      "value": "[US] DenverEnt"
+    },
+    {
+      "id": 5,
+      "label": "[US] ChicagoEnt",
+      "value": "[US] ChicagoEnt"
+    },
+    {
+      "id": 6,
+      "label": "[US] LosAngeles2 (6th Str)",
+      "value": "[US] LosAngeles2 (6th Str)"
+    },
+    {
+      "id": 7,
+      "label": "[US] Atlanta",
+      "value": "[US] Atlanta"
+    },
+    {
+      "id": 8,
+      "label": "[US] New York",
+      "value": "[US] New York"
+    },
+    {
+      "id": 9,
+      "label": "[EU] Amsterdam",
+      "value": "[EU] Amsterdam"
+    },
+    {
+      "id": 10,
+      "label": "[EU] London",
+      "value": "[EU] London"
+    }
+  ]
+}

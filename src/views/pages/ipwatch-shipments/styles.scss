@@ -1,0 +1,41 @@
+.avatar-title {
+    align-items: center;
+    background-color: #727cf5;
+    color: #fff;
+    display: flex;
+    font-weight: 600;
+    height: 100%;
+    justify-content: center;
+    width: 100%;
+}
+.rounded {
+    border-radius: 0.25rem!important;
+}
+.avatar-sm {
+    height: 3rem;
+    width: 3rem;
+}
+.tracknumber {
+    bottom: 10px;
+}
+
+
+.sortStyle {
+    margin-left: 15px;
+    cursor: pointer;
+    font-size: larger;
+    position: relative;
+    opacity: 0;
+}
+
+.down {
+    transform: rotate(-180deg);
+    display:inline-block;
+    // position:absolute;
+}
+
+.sortStyle:hover {
+    opacity: 1;
+}
+
+

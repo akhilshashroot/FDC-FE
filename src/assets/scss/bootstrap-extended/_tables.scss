@@ -1,0 +1,139 @@
+// ================================================================================================
+//     File Name: tables.scss
+//     Description: Tables pages custom scss
+//     ----------------------------------------------------------------------------------------------
+//     Item Name: Vuexy React Admin Template
+//     Version: 1.0
+//     Author: PIXINVENT
+//     Author URL: http://www.themeforest.net/user/pixinvent
+// ================================================================================================
+
+// table-white-space
+.table-white-space {
+  th,
+  td {
+    white-space: nowrap;
+  }
+}
+
+// table th, td padding
+
+.table {
+  thead th {
+    vertical-align: top;
+  }
+  th,
+  td {
+    padding: 0.2rem 1rem;
+    vertical-align: middle;
+  }
+  //table heading font-size
+  th {
+    font-size: $table-th-font-size;
+  }
+}
+.table .servertablehead{
+  th{
+    padding: 0px;
+  }
+}
+.table .servertable {
+  font-size: 14px;
+  font-family: 'Ubuntu Condensed';
+  font-weight: 550 !important;
+  color: "#666";
+  td {
+    padding: 5px 0 5px 0;
+  }
+  .tdedit {
+    cursor: pointer;
+  }
+  .input {
+    padding-left: 2px;
+  }
+}
+
+.table .unpadding{
+  td {
+    // padding: 0.6rem 1rem;
+    padding: 0.75rem 14px;
+  }
+}
+.table .device{
+  td {
+    // padding: 0.6rem 1rem;
+    // padding: 0.75rem 14px;
+    max-width: 10%;
+  }
+}
+.table .blink{
+      animation: blinker 1s linear infinite;
+}
+   
+@keyframes blinker {  
+  50% { opacity: 0; }
+}
+.table .unpaddingTh{
+  th {
+    // padding: 0.6rem 1rem;
+    padding: 0.5rem 14px;
+  }
+}
+
+.table .unpaddingtd{
+  td {
+    // padding: 0.6rem 1rem;
+    padding: 0.4rem 14px;
+  }
+}
+
+.table .striped{
+  tr {
+    &:nth-of-type(odd) {
+      background-color:  #f5f5f5;
+    }
+    &:hover {
+      background-color: #c7c4ec;
+    }
+  }
+}
+.table .hover{
+  tr {
+    &:hover {
+      background-color: #c7c4ec;
+    }
+  }
+}
+.maxhieght {
+  max-height: 150px;
+}
+// Table - inverse
+.table-inverse {
+  color: $white;
+  background-color: $info;
+}
+
+// Table - hover animation
+.table-hover-animation {
+  background-color: $body-bg;
+  thead {
+    th {
+      border-top: 2px solid $table-border-color;
+      border-bottom: 0;
+      background-color: $white;
+    }
+  }
+  th,
+  td {
+    border: 0;
+  }
+  tbody {
+    tr {
+      transition: all 0.25s ease;
+      background-color: $white;
+      &:hover {
+        transform: translateY(-4px);
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+.link {
+    cursor: pointer;
+}
+.line-clamp {
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical; 
+    font-size: 1.12rem;
+    line-height: 25px !important;
+
+    // line-height: 2 !important;
+  }
+  .module {
+    // max-width: 500px;
+    height: 25px;
+    overflow: hidden;
+  }
+  .actions{
+    margin-bottom: 0px !important;
+    margin-right: 20px;
+  }
+  .actionbutton {
+    padding: 0;
+    margin-left: "10px"
+  }
+  .chip {
+      width: fit-content;
+  }

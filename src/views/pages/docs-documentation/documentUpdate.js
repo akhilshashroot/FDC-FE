@@ -185,6 +185,15 @@ class DocumentUpdate extends React.Component {
         }
     }
 
+    uploadImageCallBack = async (file) => {
+        const res = await this.props.AddNewDocumentImage(file);
+        if (res?.data?.data) {
+          return new Promise((resolve, reject) => {
+            resolve({ data: { link: res.data?.data } });
+          });
+        }
+      };
+
     render() {
         const { editorState, topic, user, remote } = this.state
         const modalbody = {
@@ -281,6 +290,12 @@ class DocumentUpdate extends React.Component {
                                                             wrapperClassName="demo-wrapper"
                                                             editorClassName="demo-editor"
                                                             onEditorStateChange={this.onEditorStateChange}
+                                                            toolbar={{
+                                                                image: {
+                                                                  uploadCallback: this.uploadImageCallBack,
+                                                                  previewImage: true,
+                                                                },
+                                                              }}
                                                         />
                                                     </CardBody>
                                                 </Card>

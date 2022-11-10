@@ -1,5 +1,39 @@
 import { performRequest } from '../../../services/index';
 
+export const AddNewKbaseImage = (data) => {
+  const token_value = localStorage.getItem("token") || null;
+  const headers = {
+    "Content-Type": "multipart/form-data",
+    Accept: "application/json",
+    Authorization: `Bearer ${token_value}`,
+  };
+  const formData = new FormData();
+  formData.append("image", data);
+
+  return (dispatch) => {
+    dispatch({
+      type: "ADD_KBASE_IMAGE_REQUEST",
+    });
+
+    return performRequest("post", "/api/docs/kbase/imageStore", headers, formData)
+      .then((response) => {
+        if (response.data.response_code === 200) {
+          dispatch({
+            type: "ADD_KBASE_IMAGE_SUCCESS",
+            payload: response,
+          });
+          return response;
+        }
+      })
+      .catch((error) => {
+        dispatch({
+          type: "ADD_KBASE_IMAGE_ERROR",
+          payload: error,
+        });
+      });
+  };
+};
+
 // Add K-Base
 
 export const AddNewArticle = (data) => {

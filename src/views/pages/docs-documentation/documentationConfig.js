@@ -375,6 +375,7 @@ class DocumentationConfig extends React.Component {
                 locationList={this.props.dataList}
                 userList={this.props.userList && this.props.userList.prevData}
                 UpdateDocument={this.props.UpdateDocument}
+                AddNewDocumentImage={this.props.AddNewDocumentImage}
                 Updated={Updated}
                 Error={Error}
                 Mandatory={Mandatory}
